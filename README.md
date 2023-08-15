@@ -138,7 +138,7 @@ def hourly_task():
         # Save the DataFrame to CSV
         save_to_csv(news_data)
 ```
-9. Run Scheduler: Run the scheduler in an infinite loop to execute the hourly_task() function periodically.
+9. Automation: Automated the script to run the script in an infinite loop to execute the hourly_task() function periodically.
 ```bash
 # Schedule the hourly_task to run every hour
 schedule.every().hour.do(hourly_task)
