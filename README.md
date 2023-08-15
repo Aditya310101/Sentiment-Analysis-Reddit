@@ -1,6 +1,6 @@
 # Sentiment Analysis Theory for Reddit News Titles
 
-This Python script performs sentiment analysis on news titles collected from a specified subreddit using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool. The script utilizes the PRAW library for Reddit API interaction, the NLTK library for natural language processing tasks, and the Pandas library for data manipulation.
+This Python script performs sentiment analysis on news titles collected from a specified subreddit (r/politics in this script) using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool. The script utilizes the PRAW library for Reddit API interaction, the NLTK library for natural language processing tasks, and the Pandas library for data manipulation.
 
 ## Prerequisites
 
